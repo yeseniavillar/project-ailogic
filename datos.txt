@@ -1,0 +1,8 @@
+Asignación:
+- A partir del trabajo realizado hasta el momento para esta asignación, crear un listado de areas y
+módulos que tendrá la aplicación.
+- Identifique la complejidad de cada modulo y el tiempo estimado que se llevaría realizar la
+programación de este.
+- Identifique la prioridad que debe tener un modulo con relación a otro
+- Crear un repositorio compartido donde deberá agregar todo lo realizado hasta ahora de esta
+asignación. Compartirlo con el grupo y Coronado.
